@@ -1,0 +1,15 @@
+
+solution/
+HTNML/
+.vscode/
+data/
+data/Newblocks/
+*.pkl
+*.tar
+*.zip
+test.py
+xtest.py
+lab_record.md
+tmp/
+__pycache__
+.vector_cache
